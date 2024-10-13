@@ -1,0 +1,12 @@
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\BT_BUOI_6.DAL.dll.config
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\BT_BUOI_6.DAL.dll
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\BT_BUOI_6.DAL.pdb
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindown\BT_BUOI_6.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindown\BT_BUOI_6.DAL\obj\Debug\BT_BUOI_6.DAL.csproj.AssemblyReference.cache
+D:\LapTrinhWindown\BT_BUOI_6.DAL\obj\Debug\BT_BUOI_6.DAL.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindown\BT_BUOI_6.DAL\obj\Debug\BT_BUOI_.D5004A93.Up2Date
+D:\LapTrinhWindown\BT_BUOI_6.DAL\obj\Debug\BT_BUOI_6.DAL.dll
+D:\LapTrinhWindown\BT_BUOI_6.DAL\obj\Debug\BT_BUOI_6.DAL.pdb
